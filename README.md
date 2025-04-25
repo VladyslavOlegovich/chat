@@ -11,3 +11,5 @@ A `messagesEndRef` was created using `useRef` for an empty div at the end of the
 ## **Why Did You Choose Zustand or Redux?**
 
 Zustand was chosen over Redux because it is lighter and faster to set up, involves minimal boilerplate, is well-suited for a small project like this chat, and offers simple state management. This test task was a great example to get acquainted with such a technology for the first time.
+
+You can check out the live demo here: [Chat App](https://chat-indol-nine.vercel.app/)
